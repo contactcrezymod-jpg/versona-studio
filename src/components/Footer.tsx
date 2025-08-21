@@ -15,7 +15,6 @@ const Footer = () => {
     { name: "Home", id: "home" },
     { name: "About", id: "about" },
     { name: "Experience", id: "experience" },
-    { name: "Certifications", id: "certifications" },
     { name: "Projects", id: "projects" },
     { name: "Contact", id: "contact" },
   ];
